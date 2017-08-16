@@ -1,2 +1,4 @@
 Mars is here, everything is red here.
 Line 2
+Line 3
+Line 4
